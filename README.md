@@ -14,32 +14,6 @@
 
 <br/>
 
----
-
-## ◈ `whoami`
-
-```python
-class NeerajGupta:
-    
-    name       = "Neeraj Gupta"
-    role       = ["AI Developer", "ML Engineer", "React Developer"]
-    location   = "India 🇮🇳"
-    
-    currently  = "Deep Learning — Neural Nets, CNNs, Transformers"
-    interests  = ["Artificial Intelligence", "Computer Vision", "NLP"]
-    
-    languages  = ["Python 🐍", "JavaScript ⚡", "SQL"]
-    frameworks = ["PyTorch", "TensorFlow", "React", "Scikit-learn"]
-    
-    building   = "ML-powered applications that actually solve problems"
-    goal       = "Research → Production → Impact"
-    
-    def greet(self):
-        return "Let's build something intelligent together 🤝"
-```
-
----
-
 ## ◈ Arsenal
 
 <div align="center">
@@ -114,22 +88,6 @@ class NeerajGupta:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neeraj02507&bg_color=0A192F&color=00FFD1&line=00FFD1&point=FFFFFF&area=true&area_color=00FFD120&border_radius=12&hide_border=false&custom_title=Contribution+Activity"/>
 
 </div>
-
----
-
-## ◈ Currently Learning
-
-```
-AI / ML Roadmap ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  Neural Networks        ████████████████░░  85%
-  Deep Learning (DL)     ██████████████░░░░  75%
-  Computer Vision        ████████░░░░░░░░░░  45%
-  NLP / Transformers     ██████████░░░░░░░░  55%
-  MLOps / Deployment     ████░░░░░░░░░░░░░░  25%
-```
-
----
 
 ## ◈ Connect
 
